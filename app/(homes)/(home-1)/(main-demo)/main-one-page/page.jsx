@@ -13,7 +13,7 @@ export const metadata = {
   description:
     "Reconditionare Incaltaminte - adidasi, pantofi, sneakers",
 };
-export default function Home1MainDemoOnepage() {
+export { default } from "@/homes/home-1/main-one-page/page" {
   return (
     <>
       <div className="theme-main">
