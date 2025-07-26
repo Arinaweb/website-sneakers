@@ -13,7 +13,7 @@ export const metadata = {
   description:
     "Reconditionare Incaltaminte - adidasi, pantofi, sneakers",
 };
- {
+ 
   return (
     <>
       <div className="theme-main">
