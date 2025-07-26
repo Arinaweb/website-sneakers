@@ -1,1 +1,1 @@
-export { default } from "./homes/home-1/main-demo/main-one-page/page.jsx";
+export { default } from "./(homes)/(home-1)/(main-demo)/main-one-page/page";
