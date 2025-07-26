@@ -8,12 +8,11 @@ import Hero1 from "@/components/homes/home-1/heros/Hero1";
 import { mainDemoOnepage } from "@/data/menu";
 
 export const metadata = {
-  title:
-    "Sneaker Restore Bucuresti",
-  description:
-    "Reconditionare Incaltaminte - adidasi, pantofi, sneakers",
+  title: "Sneaker Restore Bucuresti",
+  description: "Reconditionare Incaltaminte – adidasi, pantofi, sneakers",
 };
- 
+
+export default function Home1MainDemoOnepage() {
   return (
     <>
       <div className="theme-main">
@@ -35,7 +34,7 @@ export const metadata = {
             <Home1 onePage />
           </main>
           <Footer1 />
-        </div>{" "}
+        </div>
       </div>
     </>
   );
