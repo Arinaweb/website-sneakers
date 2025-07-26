@@ -34,7 +34,7 @@ export default function Home1({ onePage = false, dark = false }) {
         <div className="container position-relative">
           <div className="row mb-60 mb-xs-30">
             <div className="col-md-6">
-              <h2 className="section-caption mb-xs-10">Sneakers Restore</h2>
+              <h2 className="section-caption mb-xs-10">Sneaker Restore</h2>
               <h3 className="section-title mb-0">
                 <AnimatedText text="Despre noi si misiunea noastra" />
               </h3>
