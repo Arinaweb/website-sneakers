@@ -59,7 +59,7 @@ export default function Contact() {
                       sneakerrestore.ro@gmail.com
                     </a>
                   </div>
-                  <div><a href="tel:+728618049">0728.618.049</a></div>
+                  <div><a href="tel:+40728618049">0728.618.049</a></div>
                 </div>
               </div>
             </div>
