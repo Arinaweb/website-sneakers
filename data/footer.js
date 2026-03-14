@@ -1,7 +1,7 @@
 export const footerLinks = [
-  { name: "Privacy Policy", path: "#" },
-  { name: "Terms & Conditions", path: "#" },
-  { name: "Presskit", path: "#" },
+  
+  { name: "Termeni și condiții", path: "/termeni" },
+  
 ];
 
 export const footerLinks2 = [
@@ -49,9 +49,7 @@ export const socialMediaLinks = [
 ];
 
 export const navigationLinks = [
-  { href: "#about", text: "Despre Noi" },
-  { href: "#services", text: "Servicii" },
-  {/* href: "#portfolio", text: "Portfolio" */},
-  { /* href: "#blog", text: "Blog" */ },
-  { href: "#contact", text: "Contact" },
+  { href: "/#about", text: "Despre Noi" },
+  { href: "/#services", text: "Servicii" },
+  { href: "/#contact", text: "Contact" },
 ];

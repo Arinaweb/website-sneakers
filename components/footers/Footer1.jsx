@@ -74,9 +74,9 @@ export default function Footer1({ dark = false }) {
                 </ul>
               </div>
               {/* End Footer Widget */}
-              {/* Footer Widget 
+              {/* Footer Widget  */}
               <div className="col-sm-4 mt-30">
-                <h3 className="fw-title">Legal &amp; Press</h3>
+                <h3 className="fw-title">Informatii Legale</h3>
                 <ul className="fw-menu clearlist">
                   {footerLinks.map((elm, i) => (
                     <li key={i}>
